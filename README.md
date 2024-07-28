@@ -1,0 +1,1 @@
+This project is to create a website with gluten and dairy free recipes. The skills demonstrated in this project: HTML, GIT, Commits, 
